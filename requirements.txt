@@ -1,4 +1,6 @@
-streamlit
-pandas
-pyarrow
-plotly
+# ✅ ESTE DEBE SER TU requirements.txt COMPLETO:
+streamlit>=1.48.0
+pandas>=2.0.0
+pyarrow>=21.0.0
+plotly>=6.0.0
+numpy>=1.24.0  # pandas depende de numpy
